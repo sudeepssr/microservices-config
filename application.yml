@@ -1,4 +1,4 @@
-spring.application.name: ConfigServer-USERMS
+spring:application:name: ConfigServer-USERMS
 eureka:
   instance:
     prefer-ip-address: true
